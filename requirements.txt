@@ -1,0 +1,11 @@
+telethon
+pytz
+python-dateutil
+pycryptodome
+colorama
+python-dotenv
+bs4
+Faker
+requests
+uuid
+PyJWT
